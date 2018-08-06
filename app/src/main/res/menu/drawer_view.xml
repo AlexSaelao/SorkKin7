@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ic_cafe"
+            android:icon="@drawable/cafe"
+            android:title="ຄາເຟ່" />
+        <item
+            android:id="@+id/ic_buffet"
+            android:icon="@drawable/buffet"
+            android:title="ບຸບເຟ່" />
+        <item
+            android:id="@+id/ic_resandbar"
+            android:icon="@drawable/res_and_bar"
+            android:title="ຮ້ານ ອາຫານ ເເລະ ບາ" />
+        <item
+            android:id="@+id/ic_salad"
+            android:icon="@drawable/salad"
+            android:title="ຕໍາ" />
+        <item
+            android:id="@+id/ic_noodle"
+            android:icon="@drawable/noodle"
+            android:title="ເສັ້ນ" />
+    </group>
+
+</menu>

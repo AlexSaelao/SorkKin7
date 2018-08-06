@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851641365342",
+    "firebase_url": "https://sorkkin-33f7d.firebaseio.com",
+    "project_id": "sorkkin-33f7d",
+    "storage_bucket": "sorkkin-33f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851641365342:android:73d13ecf79ec00f5",
+        "android_client_info": {
+          "package_name": "com.asus.sorkkin.sorkkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851641365342-ma1svpa2s7vav5ke9fc6dij00ah5prt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl3HHOb3fMI1YX-P8WG2dbY2fnYHgQWXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
